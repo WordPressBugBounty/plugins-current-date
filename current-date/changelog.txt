@@ -1,0 +1,2 @@
+= 1.0.1 =
+Update: Improved compatibility with WordPress 6.6.1, guaranteeing smooth operation and stability within the WordPress ecosystem.

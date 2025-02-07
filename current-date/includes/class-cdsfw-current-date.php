@@ -58,7 +58,7 @@
 			if (defined('CDSFW_CURRENT_DATE_VERSION')) {
 				$this->version = CDSFW_CURRENT_DATE_VERSION;
 			} else {
-				$this->version = '1.0.1';
+				$this->version = '1.0.2';
 			}
 			$this->plugin_name = 'current-date';
 

@@ -16,7 +16,7 @@
  * Plugin Name:       Current Date Shortcode For WordPess
  * Plugin URI:        https://wordpress.org/plugins/current-date
  * Description:       Easily display the current date anywhere using a simple shortcode, Gutenberg block, Elementor addon
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Noruzzaman
  * Author URI:        https://github.com/noruzzamans
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'CDSFW_CURRENT_DATE_VERSION', '1.0.1' );
+define( 'CDSFW_CURRENT_DATE_VERSION', '1.0.2' );
 
 /**
  * The code that runs during plugin activation.

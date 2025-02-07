@@ -3,7 +3,7 @@ Contributors: noruzzaman, sanaf
 Tags: current date, month, shortcode, year
 Requires at least: 5.0
 Tested up to: 6.7
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -63,6 +63,9 @@ There is no prerequisites for installing **Current Date Shortcode For WordPess**
 Yes, it’s completely free.
 
 == Changelog ==
+
+= 1.0.2 =
+WordPress 6.7 Compatibility: Improved stability and smooth operation with the latest WordPress version.
 
 = 1.0.1 =
 Update: Improved compatibility with WordPress 6.6.1, guaranteeing smooth operation and stability within the WordPress ecosystem.

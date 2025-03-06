@@ -62,6 +62,8 @@ class CDSFW_CURRENT_DATE_WIDGET extends \Elementor\Widget_Base {
                     'Y-m-d' => esc_html__( date_i18n('Y-m-d'), 'current-date' ),
                     'Y/m/d' => esc_html__( date_i18n('Y/m/d'), 'current-date' ),
                     'm/d/Y' => esc_html__( date_i18n('m/d/Y'), 'current-date' ),
+                    'jS F' => esc_html__( date_i18n('jS F'), 'current-date' ),
+                    'jS. F' => esc_html__( date_i18n('jS. F'), 'current-date' ),
                 ],
             ]
         );

@@ -83,6 +83,8 @@ public function cdsfw_current_date_settings_page_callback() {
                 'Y-m-d',               // 2024-03-15
                 'Y/m/d',               // 2024/03/15
                 'm/d/Y',              // 03/15/2024
+                'jS F',              // 03/15/2024
+                'jS. F',              // 03/15/2024
             );
 
             // Loop through each date format and create a card for it

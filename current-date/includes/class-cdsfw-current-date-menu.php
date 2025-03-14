@@ -83,8 +83,8 @@ public function cdsfw_current_date_settings_page_callback() {
                 'Y-m-d',               // 2024-03-15
                 'Y/m/d',               // 2024/03/15
                 'm/d/Y',              // 03/15/2024
-                'jS F',              // 03/15/2024
-                'jS. F',              // 03/15/2024
+                'jS F',              // 15th March
+                'd. F',              // 15. March
             );
 
             // Loop through each date format and create a card for it
@@ -92,7 +92,7 @@ public function cdsfw_current_date_settings_page_callback() {
                 ?>
                 <div class="card">
                     <div class="card-body">
-                        <p class="card-text"><?php echo date($format); ?></p>
+                        <p class="card-text"><?php echo date_i18n($format); ?></p>
                         <p class="shortcode">[current-date format='<?php echo $format; ?>']</p>
                     </div>
                 </div>

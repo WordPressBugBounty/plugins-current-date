@@ -2,7 +2,7 @@
 Contributors: noruzzaman, sanaf
 Tags: current date, month, shortcode, year
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.0.4
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -45,7 +45,13 @@ Need a specific date format? No problem! Pass a format attribute with the shortc
 
 This user-friendly plugin empowers you to seamlessly integrate dynamic dates into your WordPress content, enhancing both functionality and user experience.
 
-##CONTRIBUTE
+== Support ==
+
+If you encounter any issues or have questions about the plugin, please visit our support forum at **[Submit Ticket](https://wordpress.org/support/plugin/current-date/)**. We are here to help you with any concerns you may have.
+
+If you have any questions, please email us at **[noruzzaman19@gmail.com](mailto:noruzzaman19@gmail.com)**
+
+##Contribute
 The full source code is available on [GitHub Repository](https://github.com/noruzzamanrubel/Current-Date-Shortcode-for-Wordpress). Feel free to contribute or report an issue.
 
 == Installation ==
